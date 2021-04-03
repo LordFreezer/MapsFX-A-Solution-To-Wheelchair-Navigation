@@ -1,5 +1,9 @@
 package application;
 	
+//json response call for directions api
+// "https://maps.googleapis.com/maps/api/directions/json?origin=Disneyland&destination=Universal+Studios+Hollywood&key=AIzaSyDV6S9NCcJw-5uc59bfxmN3Zs2Kl0zd3X4"
+// json response call for roads api
+// "https://roads.googleapis.com/v1/snapToRoads?path=-35.27801,149.12958|-35.28032,149.12907|-35.28099,149.12929|-35.28144,149.12984|-35.28194,149.13003|-35.28282,149.12956|-35.28302,149.12881|-35.28473,149.12836&interpolate=true&key=AIzaSyDV6S9NCcJw-5uc59bfxmN3Zs2Kl0zd3X4"
 
 
 import javafx.application.Application;
@@ -28,7 +32,9 @@ public class Main extends Application {
 			
 			@Override
 			public void handle(ActionEvent event) {
-				engine.load("file:///C:/Users/user/Desktop/example.html");
+				// view map
+				engine.load("file:///C:/Users/user/Desktop/alamut_road_snap.html");
+				
 			}
 		});
 		
