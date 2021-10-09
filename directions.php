@@ -208,7 +208,7 @@ Option For Handicap Doors - Note that Google's Documentation LIED about using La
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDV6S9NCcJw-5uc59bfxmN3Zs2Kl0zd3X4&callback=initMap&libraries=&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=/*KEY GOES HERE*/&callback=initMap&libraries=&v=weekly"
       async
     ></script>
   </body>
