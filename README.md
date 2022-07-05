@@ -3235,7 +3235,8 @@ alt="Text&#10;&#10;Description automatically generated" v:shapes="Picture_x0020_
 clear=all style='mso-special-character:line-break;page-break-before:always'>
 <o:p></o:p></p>
 
-<p class=MsoNormal>Façade output<span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+<p class=MsoNormal>Façade output<span style='mso-no-proof:yes'>
+<!--[if gte vml 1]><v:shape
  id="Picture_x0020_9" o:spid="_x0000_i1033" type="#_x0000_t75" alt="Graphical user interface, text, application&#10;&#10;Description automatically generated"
  style='width:468pt;height:316.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="combined_files/image040.png" o:title="Graphical user interface, text, application&#10;&#10;Description automatically generated"/>
@@ -3243,6 +3244,7 @@ clear=all style='mso-special-character:line-break;page-break-before:always'>
 src="combined_files/image041.png"
 alt="Graphical user interface, text, application&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_9"><![endif]></span><o:p></o:p></p>
+
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
