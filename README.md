@@ -3,15 +3,24 @@
 Maps FX is an app for wheel chair users to use in order to navigate around UCO's campus safely. We used Google's Directions api to perform the navigations.
 
 ## Built With
-Java FX
-Java
-HTML
-PHP
-JQuery
-AJAX
-Google Maps API
-SimpleJSON
-JCraft
+<table>
+	<tr>
+  <td>
+   <img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/javafx.png">
+  <td/>
+    <td>
+   <img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/html.png">
+  <td/>
+ </tr>
+  <tr>
+   <td>
+   Java FX
+   </td>
+      <td>
+   HTML
+   </td>
+  </tr>
+</table>
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
