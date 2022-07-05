@@ -7,10 +7,10 @@ Maps FX is an app for wheel chair users to use in order to navigate around UCO's
 	<tr>
 		<td>
 			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/javafx.png" />
-  		<td/>
+  		</td>
    		 <td>
    			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/html.png" />
-  		<td/>
+  		</td>
 	 </tr>
   	<tr>
   		 <td>
