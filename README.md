@@ -5,21 +5,21 @@ Maps FX is an app for wheel chair users to use in order to navigate around UCO's
 ## Built With
 <table>
 	<tr>
-  <td>
-   <img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/javafx.png">
-  <td/>
-    <td>
-   <img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/html.png">
-  <td/>
- </tr>
-  <tr>
-   <td>
-   Java FX
-   </td>
-      <td>
-   HTML
-   </td>
-  </tr>
+		<td>
+			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/javafx.png" />
+  		<td/>
+   		 <td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/html.png" />
+  		<td/>
+	 </tr>
+  	<tr>
+  		 <td>
+  			 Java FX
+   		</td>
+  		 <td>
+   		HTML
+   		</td>
+  	</tr>
 </table>
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
