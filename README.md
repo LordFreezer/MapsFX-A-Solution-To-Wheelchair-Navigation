@@ -11,16 +11,73 @@ Maps FX is an app for wheel chair users to use in order to navigate around UCO's
    		 <td>
    			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/html.png" />
   		</td>
+		 <td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/javascript.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/jquery.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/ajax.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/php.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/java.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/directions.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/simple.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/craft.png" />
+  		</td>
+		<td>
+   			<img height="40px" class="center-block" src="https://github.com/LordFreezer/WheelChairJavaFX/blob/master/combined_files/amazonec2.png" />
+  		</td>
 	 </tr>
   	<tr>
   		 <td>
-  			 Java FX
+  		Java FX
    		</td>
   		 <td>
    		HTML
    		</td>
+		  <td>
+   		JavaScript
+   		</td>
+		 <td>
+   		JQuery
+   		</td>
+		<td>
+   		AJAX
+   		</td>
+		<td>
+   		PHP
+   		</td>
+		<td>
+   		Java
+   		</td>
+		<td>
+   		Directions API
+   		</td>
+		<td>
+   		SimpleJSON Library
+   		</td>
+		<td>
+   		JCraft Library
+   		</td>
+		<td>
+   		AWS EC2
+   		</td>
   	</tr>
 </table>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
