@@ -952,10 +952,10 @@ style='mso-bidi-font-family:Arial'><o:p></o:p></span></span></h2>
 font-family:"Arial",sans-serif;color:black'>Maps FXs goal is to provide an
 application to not only those who have disabilities, but any user so that they
 can navigate to and from buildings on campus. Given that the user has an
-internet connection and a laptop, the user can travel anywhere on campus. The
-front-end design is created with JavaFX which allows the user to use the app on
-the plethora of devices that uses Java Runtime Environment. The back-end design
-is written in HTML with JavaScript. The responses from the API calls are
+internet connection and a laptop, the user can travel anywhere on campus. 
+We used Google's Directions api to perform the navigations. The front-end design is 
+created with JavaFX, HTML, and JavaScript. The back-end design is written 
+in PHP and Java. The responses from the API calls are
 received in JSON format and parsed at the JavaScript level.&nbsp;</span></span><span
 style='mso-bookmark:_Toc517251108'><span style='font-family:"Arial",sans-serif;
 color:black'><o:p></o:p></span></span></p>
